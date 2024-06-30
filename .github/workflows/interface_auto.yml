@@ -6,7 +6,7 @@ on:
     branches:
       - "master"
       - "main"
-      - "GridPartition"
+      - "medoid-interface"
   pull_request:
     branches:
       - "master"
