@@ -6,7 +6,6 @@ on:
     branches:
       - "master"
       - "main"
-      - "medoid-interface"
   pull_request:
     branches:
       - "master"
