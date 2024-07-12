@@ -6,6 +6,7 @@ on:
     branches:
       - "master"
       - "main"
+      - "test-deployment"
   pull_request:
     branches:
       - "master"
